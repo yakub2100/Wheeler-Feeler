@@ -1,0 +1,17 @@
+﻿Build started 4/5/2013 4:39:07 PM.
+     1>Project "C:\Development\Android\Yakub\WF\WF.vcxproj" on node 2 (build target(s)).
+     1>Build:
+         ndk-build
+         Install        : libQCAR.so => libs/armeabi/libQCAR.so
+         "Compile++ arm  : feeler <= WheelerFeeler.cpp
+         SharedLibrary  : libfeeler.so
+         Install        : libfeeler.so => libs/armeabi/libfeeler.so
+         Install        : libQCAR.so => libs/armeabi-v7a/libQCAR.so
+         "Compile++ arm  : feeler <= WheelerFeeler.cpp
+         SharedLibrary  : libfeeler.so
+         Install        : libfeeler.so => libs/armeabi-v7a/libfeeler.so
+     1>Done Building Project "C:\Development\Android\Yakub\WF\WF.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.76
